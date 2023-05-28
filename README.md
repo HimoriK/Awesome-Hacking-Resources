@@ -57,25 +57,14 @@ Name  |  Description
 ----  |  ----
 [0patch by ACROS Security](https://www.youtube.com/channel/UCwlGrzF4on-bjiBhD8lO3QA) | few videos, very short, specific to 0patch
 [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg) | features talks from the BlackHat conferences around the world
-[Christiaan008](https://www.youtube.com/channel/UCEPzS1rYsrkqzSLNp76nrcg) | hosts a variety of videos on various security topics, disorganized
 | <td colspan="2" > **Companies** </td>
-[Detectify](https://www.youtube.com/channel/UCm6N84sAaQ-BiNdCaaLT4qg) | very short videos, aimed at showing how to use Detictify scanner
 [Hak5](https://www.youtube.com/user/Hak5Darren) | see Hak5 above
 [Kaspersky Lab](https://www.youtube.com/channel/UCGhEv7BFBWdo0k4UXTm2eZg) | lots of Kaspersky promos, some hidden cybersecurity gems
-[Metasploit](https://www.youtube.com/channel/UCx4d2aRIfxfEUdS_5YIYKPg) | collection of medium length metasploit demos, ~25minutes each, instructional
 [ntop](https://www.youtube.com/channel/UCUYWuYlYKD5Yq5qBz0AIXJw/feed) | network monitoring, packet analysis, instructional
-[nVisium](https://www.youtube.com/channel/UCTE8R-Otq_kVTo08eLsfeyg) | Some nVisum promos, a handful of instructional series on Rails vulns and web hacking
-[OpenNSM](https://www.youtube.com/user/OpenNSM/feed) | network analysis, lots of TCPDUMP videos, instructional,
-[OWASP](https://www.youtube.com/user/OWASPGLOBAL) | see OWASP above
-[Rapid7](https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w) | brief videos, promotional/instructional, ~ 5 minutes
-[Securelist](https://www.youtube.com/user/Securelist/featured) | brief videos, interviews discussing various cyber security topics
-[Segment Security](https://www.youtube.com/channel/UCMCI9TE3-PZ7CgKk7X6Qd_w/featured) | promo videos, non-instructional
-[SocialEngineerOrg](https://www.youtube.com/channel/UCC1vbVVbYdNe-OZRldj-U6g) | podcast-style, instructional, lengthy content ~1 hr each
-[Sonatype](https://www.youtube.com/user/sonatype/featured) | lots of random videos, a good cluster of DevOps related content, large range of lengths, disorganized
-[SophosLabs](https://www.youtube.com/user/SophosLabs/featured) | lots of brief, news-style content, "7 Deadly IT Sins" segment is of note
-[Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos covering topics like botnets, DDoS ~5 minutes each
-[Station X](https://www.youtube.com/channel/UC-vWmE-BHcUrYW5zwDijL1g) | handful of brief videos, disorganized, unscheduled content updates
-[Synack](https://www.youtube.com/channel/UCRH0mvESjZ7eKY1LJZDPIbw/featured) | random, news-style videos, disorganized, non-instructional
+[OpenNSM](https://www.youtube.com/user/OpenNSM/feed) | network analysis, lots of TCPDUMP videos, instructional
+[SocialEngineerOrg](https://www.youtube.com/channel/UCC1vbVVbYdNe-OZRldj-U6g) | podcast, instructional, lengthy content ~1 hr each
+[Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos, drawings, old ~5 minutes each 
+[Station X](https://www.youtube.com/channel/UC-vWmE-BHcUrYW5zwDijL1g) | crappy intro videos
 [TippingPoint Zero Day Initiative](https://www.youtube.com/channel/UChbH7B5YhXANmlMYJRHpw0g) | very brief videos ~30 sec, somewhat instructional
 [Tripwire, Inc.](https://www.youtube.com/user/TripwireInc/videos) | some tripwire demos, and random news-style videos, non-instructional
 [Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w/featured) | handful of videos from a single hacker, instructional
@@ -156,6 +145,9 @@ Name  |  Description
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
 [The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
+[OWASP](https://www.youtube.com/user/OWASPGLOBAL) | see OWASP above (old)
+[Rapid7](https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w) | brief promotional videos (eh)
+[Securelist](https://www.youtube.com/user/Securelist/featured) | brief videos, interviews discussing various cyber security topics (10 yrs old, maybe informative)
 
 ### Sharpening Your Skills
 Name    |    Description
