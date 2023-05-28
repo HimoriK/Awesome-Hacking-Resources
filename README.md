@@ -39,10 +39,8 @@ Name  |  Description
 ----  |  ----
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [CyberSec WTF](https://cybersecurity.wtf) | CyberSec WTF Web Hacking Challenges from Bounty write-ups
-[Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
 [Free Cyber Security Training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
 [Hopper's Roppers Security Training](https://hoppersroppers.org/training.html) | Four free self-paced courses on Computing Fundamentals, Security, Capture the Flags, and a Practical Skills Bootcamp that help beginners build a strong base of foundational knowledge. Designed to prepare for students for whatever they need to learn next.
-[OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) | academic content, full semester course including 27 lecture videos with slides and assign readings (404 error, 2014)
 [SecurityTube](http://www.securitytube.net/) | tube-styled content, "megaprimer" videos covering various topics, no readable content on site. (old videos, random youtube links, info seems ok though)
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings (uptodate labs)
 [TryHackMe](https://tryhackme.com/) | Prebuilt challenges, recommended on many sites, requires account
@@ -53,35 +51,28 @@ Name  |  Description
 [0patch by ACROS Security](https://www.youtube.com/channel/UCwlGrzF4on-bjiBhD8lO3QA) | few videos, very short, specific to 0patch
 [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg) | features talks from the BlackHat conferences around the world
 | <td colspan="2" > **Companies** </td>
-[Hak5](https://www.youtube.com/user/Hak5Darren) | see Hak5 above
 [Kaspersky Lab](https://www.youtube.com/channel/UCGhEv7BFBWdo0k4UXTm2eZg) | lots of Kaspersky promos, some hidden cybersecurity gems
 [ntop](https://www.youtube.com/channel/UCUYWuYlYKD5Yq5qBz0AIXJw/feed) | network monitoring, packet analysis, instructional
 [OpenNSM](https://www.youtube.com/user/OpenNSM/feed) | network analysis, lots of TCPDUMP videos, instructional
 [SocialEngineerOrg](https://www.youtube.com/channel/UCC1vbVVbYdNe-OZRldj-U6g) | podcast, instructional, lengthy content ~1 hr each
 [Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos, drawings, old ~5 minutes each 
 [Station X](https://www.youtube.com/channel/UC-vWmE-BHcUrYW5zwDijL1g) | crappy intro videos
-[TippingPoint Zero Day Initiative](https://www.youtube.com/channel/UChbH7B5YhXANmlMYJRHpw0g) | very brief videos ~30 sec, somewhat instructional
-[Tripwire, Inc.](https://www.youtube.com/user/TripwireInc/videos) | some tripwire demos, and random news-style videos, non-instructional
+[Zero Day Initiative](https://www.youtube.com/channel/UChbH7B5YhXANmlMYJRHpw0g) | very brief videos ~30 sec, somewhat instructional
 [Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w/featured) | handful of videos from a single hacker, instructional
 | <td colspan="2"> **Conferences** </td>
-[44contv](https://www.youtube.com/user/44contv) | in
-[MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science) |Information security con based in London, lengthy instructional videos
+[44contv](https://www.youtube.com/user/44contv) | decent con videos, somewhat old.
 [BruCON Security Conference](https://www.youtube.com/channel/UCqwMU1l90lf9BLersW6eAHw) | security and hacker conference based in b\Belgium, lots of lengthy instructinoal videos
-[BSides Manchester](https://www.youtube.com/channel/UC1mLiimOTqZFK98VwM8Ke4w) | security and hacker con based in Mancheseter, lots of lengthy videos
-[BSidesAugusta](https://www.youtube.com/channel/UC85CvsnrVlD_44eEgzb2OfA) | security con based in Augusta, Georgia, lots of lengthy instructional videos
-[CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw) | security con based in North Carolina, associated with various 2600 chapters, lots of lengthy instructional content
-[Cort Johnson](https://www.youtube.com/channel/UCV9r-yMeARWVCJEesim25Ag) | a handful of lengthy con-style talks from Hack Secure Opensec 2017
-[DevSecCon](https://www.youtube.com/channel/UCgxhfP2Hi8MQYz6ZkwpLA0A) | lenghty con videos covering DevSecOps, making software more secure
-[Garage4Hackers - Information Security](https://www.youtube.com/channel/UCDqagqREZlmJitWco-yPtvw/feed) | a handful of lengthy videos, About section lacks description
-[HACKADAY](https://www.youtube.com/channel/UCnv0gfLQFNGPJ5MHSGuIAkw) | lots of random tech content, not strictly infosec, some instructional
-[Hack In The Box Security Conference](https://www.youtube.com/channel/UC0BJVNTIEbG8CLG-xVVWJnA) | lengthy con-style instructional talks from an international security con
-[Hack in Paris](https://www.youtube.com/channel/UC7xJU9_oqw-vS6OJExS-2iA) | security con based in paris, features lots of instructional talks, slides can be difficult to see.
+[BSidesAugusta](https://www.youtube.com/channel/UC85CvsnrVlD_44eEgzb2OfA) | security con based in Augusta, Georgia, lengthy instructional videos (ok quality)
+[CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw) | security con based in North Carolina, associated with various 2600 chapters, lengthy instructional content (crappy quality)
+[HACKADAY](https://www.youtube.com/channel/UCnv0gfLQFNGPJ5MHSGuIAkw) | lots of random tech content, some tutorials, nice active resource
+[Hack In The Box Security Conference](https://www.youtube.com/channel/UC0BJVNTIEbG8CLG-xVVWJnA) | talks from an international security con
+[Hack in Paris](https://www.youtube.com/channel/UC7xJU9_oqw-vS6OJExS-2iA) | security con based in paris, slides can be difficult to see.
 [Hacklu](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/feed) | lots of lengthy con-style instructional videos
-[Hacktivity](https://www.youtube.com/user/hacktivity/feed) | lots of lengthy con-style instructional videos from a con in central/eastern europe
-[Hardwear.io](https://www.youtube.com/channel/UChwYb9xc9tZXquQxu4G0l_g/featured) | handful of lengthy con-style video, emphasis on hardware hacks
-[IEEE Symposium on Security and Privacy](https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q) | content from the symposium; IEEE is a professional association based in the us, they also publish various journals
-[LASCON](https://www.youtube.com/channel/UCDHsOiMPS-SLppAOAJRD37Q) | lengthy con-style talks from an OWASP con held in Austin, TX
-[leHACK](https://www.youtube.com/channel/UCSxk_CUfES4ly5Sspc0Vorw) | leHACK is the oldest ( 2003 ), leading, security conference in Paris, FR
+[Hacktivity](https://www.youtube.com/user/hacktivity/feed) | instructional videos in central/eastern europe (eh, old)
+[Hardwear.io](https://www.youtube.com/channel/UChwYb9xc9tZXquQxu4G0l_g/featured) | handful of lengthy con-style video, emphasis on hardware hacks (not bad)
+[IEEE Symposium on Security and Privacy](https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q) | (crappy videos)
+[LASCON](https://www.youtube.com/channel/UCDHsOiMPS-SLppAOAJRD37Q) | talks from OWASP con held in Austin, TX (ok videos)
+[leHACK](https://www.youtube.com/channel/UCSxk_CUfES4ly5Sspc0Vorw) | leHACK is the oldest ( 2003 ), leading, security conference in Paris, FR (some videos in english, interesting topics)
 [Marcus Niemietz](https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg/videos) | lots of instructional content, associated with HACKPRA, an offensive security course from an institute in Germany
 [Media.ccc.de](https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg) | The real official channel of the chaos computer club, operated by the CCC VOC - tons of lengthy con-style vids
 [NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw) | lengthy con-style talks from an applied security conference in Canada
