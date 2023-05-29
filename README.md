@@ -84,7 +84,6 @@ Name  |  Description
 [Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g) | old python videos, maybe something useful here
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | good videos, straight up. Literal Cybersecurity roadmap on frontpage
 [John Hammond](https://www.youtube.com/user/RootOfTheNull) | random hacking videos, current
-[LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow) | lots of brief screenshot instructional vids, no dialog
 [Metasploitation](https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg) | lots of screenshot vids, little to no dialogue, all about using Metasploit, no recent vids.
 [NetSecNow](https://www.youtube.com/channel/UC6J_GnSAi7F2hY4RmnMcWJw) | channel of pentesteruniversity.org, seems to post once a month, screenshot instructional vids
 [Open SecurityTraining](https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg) | lots of lengthy lecture-style vids, no recent posts, but quality info.
