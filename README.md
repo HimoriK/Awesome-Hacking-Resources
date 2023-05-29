@@ -88,28 +88,20 @@ Name  |  Description
 [NetSecNow](https://www.youtube.com/channel/UC6J_GnSAi7F2hY4RmnMcWJw) | channel of pentesteruniversity.org, seems to post once a month, screenshot instructional vids
 [Open SecurityTraining](https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg) | lots of lengthy lecture-style vids, no recent posts, but quality info.
 [Pentester Academy TV](https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA) | lots of brief videos, very regular posting, up to +8 a week
-[Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA) | DELETE
-[rwbnetsec](https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ) | lots of medium length instructional videos covering tools from Kali 2.0, no recent posts.
-[Samy Kamkar's Applied Hacking](https://www.youtube.com/user/s4myk) | brief to medium length instructional vids from the creator of PoisonTap for the Raspberry Pi Zero, no recent content, last updated in 2016
-[SecureNinjaTV](https://www.youtube.com/channel/UCNxfV4yR0nIlhFmfwcdf3BQ) | brief news bites, irregular posting, 18K followers
-[Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg) | regular updates, lengthy podcast-style interviews with industry pros
-[Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA) | variety of DIY hacking tutorials, hardware hacks, regular updates
-[Shozab Haxor](https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A) | lots of screenshot style instructional vids, regular updates, windows CLI tutorial
-[SSTec Tutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg) | lots of brief screenshot vids, regular updates
+[Samy Kamkar's Applied Hacking](https://www.youtube.com/user/s4myk) | old maybe 2-3 ok videos
+[Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg) | ok videos, some old
+[Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA) | meme hack videos, not serious
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
-[Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ) | lone youtuber, medium length news videos, 16K followers, regular content
-[Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q) | lots of brief screenshot vids covering web security and game programming
-[webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg) | lots of brief screenshot vids, some CTF walkthroughs
-[Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA) | lots of brief c++ security videos, programming intensive
+[Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ) | wholesome channel, old videos
+[webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg) | good videos, some old
+[Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA) | sort of old, but good c++ hacking vids
 [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow) | lots of brief screenshot instructional vids, no dialog
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
-[IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs to help you learn both basic and advanced processes and techniques
-[The Daily Swig](https://portswigger.net/daily-swig) | Latest Cybersecurity News
-[OWASP](https://www.youtube.com/user/OWASPGLOBAL) | see OWASP above (old)
-[Rapid7](https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w) | brief promotional videos (eh)
+[IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs
+[The Daily Swig](https://portswigger.net/daily-swig) | Cybersecurity News Catalogue
 [Securelist](https://www.youtube.com/user/Securelist/featured) | brief videos, interviews discussing various cyber security topics (10 yrs old, maybe informative)
 
 ### Sharpening Your Skills
