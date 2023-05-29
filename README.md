@@ -110,9 +110,8 @@ Name    |    Description
 [The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
 [Crackmes.one](https://crackmes.one/) | This is a simple place where you can download crackmes to improve your reverse engineering skills.
 [CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
-[CTFs write-ups](https://github.com/ctfs/resources | a collection of writeups from various CTFs, organized, slightly outdated
+[CTFs write-ups](https://github.com/ctfs/resources) | a collection of writeups from various CTFs, organized, slightly outdated
 [Google CTF](https://github.com/google/google-ctf) | Source code of Google CTF
-[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
 [Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
 [Hacksplaining](https://www.hacksplaining.com/) | security informational site, very good for beginners.
 [Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
@@ -122,18 +121,10 @@ Name    |    Description
 [PicoCTF](https://picoctf.org/) | CTF hosted by Carnegie Mellon, occurs yearly, account required.
 [pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
 [pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
-[ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
 [SmashTheStack](https://www.smashthestack.org/main.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
 [Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
-[tryhackme](https://tryhackme.com) | Awesome platform to start learning cybersecurity, account is needed
-[webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
-[Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
-[Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for begginers
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
-[Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
-[Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
 [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
