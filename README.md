@@ -73,38 +73,31 @@ Name  |  Description
 [IEEE Symposium on Security and Privacy](https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q) | (crappy videos)
 [LASCON](https://www.youtube.com/channel/UCDHsOiMPS-SLppAOAJRD37Q) | talks from OWASP con held in Austin, TX (ok videos)
 [leHACK](https://www.youtube.com/channel/UCSxk_CUfES4ly5Sspc0Vorw) | leHACK is the oldest ( 2003 ), leading, security conference in Paris, FR (some videos in english, interesting topics)
-[Marcus Niemietz](https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg/videos) | lots of instructional content, associated with HACKPRA, an offensive security course from an institute in Germany
-[Media.ccc.de](https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg) | The real official channel of the chaos computer club, operated by the CCC VOC - tons of lengthy con-style vids
-[NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw) | lengthy con-style talks from an applied security conference in Canada
-[Pancake Nopcode](https://www.youtube.com/channel/UC3G6k7XfTgcWD2PJR8qJSkQ) | channel of Radare2 whiz Sergi "pancake" Alvarez, Reverse Engineering Content
-[Psiinon](https://www.youtube.com/channel/UC-3qyzm4f29C12KGp3-12bQ) | medium length instructional videos, for the OWASP Zed Attack Proxy
-[SJSU Infosec](https://www.youtube.com/channel/UCDNzNvZlYK8jZLsUbdiGrsQ/videos) | handful of lengthy instructional videos from San Jose State university Infosec
-[Secappdev.org](https://www.youtube.com/channel/UCSii2fuiLLlGqaR6sR_y0rA) | tons of lengthy instructional lectures on Secure App Development
-[Security Fest](https://www.youtube.com/channel/UCByLDp7r7gHGoO7yYMYFeWQ) | medium length con-style talks from a security festival in Sweden
-[SecurityTubeCons](https://www.youtube.com/channel/UC2wNN-Zqiq4J1PLPnyMBWUg) | an assortment of con-style talks from various cons including BlackHat and Shmoocon
+[Marcus Niemietz](https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg/videos) | associated with HACKPRA, an offensive security course from an institute in Germany, instructional (no post in 3 yrs)
+[Media.ccc.de](https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg) | The real official channel of the chaos computer club, operated by the CCC VOC  (has only like 3 useful videos, not in english, delete)
+[NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw) | lengthy con-style talks from an applied security conference in Canada (crappy videos)
+[SJSU Infosec](https://www.youtube.com/channel/UCDNzNvZlYK8jZLsUbdiGrsQ/videos) | handful of lengthy instructional videos from San Jose State university Infosec (old, maybe useful videos)
+[Secappdev.org](https://www.youtube.com/channel/UCSii2fuiLLlGqaR6sR_y0rA) | tons of lengthy instructional lectures on Secure App Development (old, but some interesting stuff)
+[Security Fest](https://www.youtube.com/channel/UCByLDp7r7gHGoO7yYMYFeWQ) | medium length con-style talks from a security festival in Sweden (
+[SecurityTubeCons](https://www.youtube.com/channel/UC2wNN-Zqiq4J1PLPnyMBWUg) | an assortment of talks from various cons including BlackHat and Shmoocon (got taken down, delete)
 [ToorCon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw) | handful of medium length con videos from con based in San Diego, CA
-[USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw/feed) | medium length "round table discussion with leading experts", content starts in 2016
-[ZeroNights](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A) | a lot of con-style talks from international conference ZeroNights
+[USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw/feed) | medium length "round table discussion with leading experts", content starts in 2016 (old, crappy content)
+[ZeroNights](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A) | a lot of con-style talks from international conference ZeroNights (literally no videos, they were DELETED)
 | <td colspan = "2"> **News** </td>
-[0x41414141](https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ) | Channel with couple challenges, well explained
-[Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
-[Corey Nachreiner](https://www.youtube.com/channel/UC7dUL0FbVPGqzdb2HtWw3Xg) | security newsbites, 2.7K subscribers, 2-3 videos a week, no set schedule
-[BalCCon - Balkan Computer Congress](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA) | Long con-style talks from the Balkan Computer Congress, doesn't update regularly
-[danooct1](https://www.youtube.com/channel/UCqbkm47qBxDj-P3lI9voIAw) | lots of brief screenshot, how-to vids regarding malware, regular content updates, 186K followerss
-[DedSec](https://www.youtube.com/channel/UCx34ZZW2KgezfUPPeL6m8Dw) | lots of brief screenshot how-to vids based in Kali, no recent posts.
-[DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw) | lots of lengthy con-style vids from the iconical DEFCON
-[DemmSec](https://www.youtube.com/channel/UCJItQmwUrcW4VdUqWaRUNIg) | lots of pen testing vids, somewhat irregular uploads, 44K followers
-[Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
-[Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g) | amateur pen-tester posting lots of brief screenshot vids regularly, 9K Followers
-[Error 404 Cyber News](https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q) | short screen-shot videos with loud metal, no dialog, bi-weekly
-[Geeks Fort - KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw) | lots of brief screenshot vids, no recent posts
-[GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) | Security streams from Google Researcher. Mainly about CTFs, computer security, programing and similar things.
-[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
-[HACKING TUTORIALS](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA) | handful of brief screenshot vids, no recent posts.
-[iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | lots of screenshot vids aimed at novices, 5.7K Followers, no recent posts
-[JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA) | lots of medium length instructional vids with some AskMe vids from the youtuber
-[John Hammond](https://www.youtube.com/user/RootOfTheNull) | Solves CTF problems. contains penTesting tips and tricks
-[Latest Hacking News](https://www.youtube.com/user/thefieldhouse/feed) | 10K followers, medium length screenshot videos, no recent releases
+[0x41414141](https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ) | Channel with couple challenges, well explained (sorta recent, clear, check this)
+[Adrian Crenshaw](https://www.youtube.com/user/irongeek) | super old videos, maybe some treasure hidden here
+[Corey Nachreiner](https://www.youtube.com/channel/UC7dUL0FbVPGqzdb2HtWw3Xg) | old videos, probably 2-3 good ones, limited 2019.
+[BalCCon - Balkan Computer Congress](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA) | talks from the Balkan Computer Congress, doesn't update regularly
+[DEFCON Conference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw) | what you expect, specialized nonsense
+[DemmSec](https://www.youtube.com/channel/UCJItQmwUrcW4VdUqWaRUNIg) | old, some tutorials. 2019
+[Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g) | old python videos, maybe something useful here
+[Error 404 Cyber News](https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q) | 404, broken
+[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | good videos, straight up. Literal Cybersecurity roadmap on frontpage
+[HACKING TUTORIALS](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA) | TRASH, they DELETED everything
+[iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | TRASH, they DELETED everything
+[JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA) | deleted channel
+[John Hammond](https://www.youtube.com/user/RootOfTheNull) | random hacking videos, current
+[Latest Hacking News](https://www.youtube.com/user/thefieldhouse/feed) | deleted
 [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow) | lots of brief screenshot instructional vids, no dialog
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium instructional vids, covering things like buffer overflows and exploit writing, regular posts.
 [Metasploitation](https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg) | lots of screenshot vids, little to no dialogue, all about using Metasploit, no recent vids.
