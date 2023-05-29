@@ -107,45 +107,24 @@ Name  |  Description
 ### Sharpening Your Skills
 Name    |    Description
 ----    |    ----
-[Backdoor](https://backdoor.sdslabs.co) | pen testing labs that have a space for beginners, a practice arena and various competitions, account required
 [The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
-[Challenge Land](http://challengeland.co/) | Ctf site with a twist, no simple sign-up, you have to solve a challengeto even get that far!
-[Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
 [Crackmes.one](https://crackmes.one/) | This is a simple place where you can download crackmes to improve your reverse engineering skills.
 [CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
-[CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs, organized by
-[CTF365](https://ctf365.com/) | account based ctf site, awarded by Kaspersky, MIT, T-Mobile
-[The enigma group](https://www.enigmagroup.org/) | web application security training, account based, video tutorials
-[Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
-[Google CTF](https://github.com/google/google-ctf) | Source code of Google 2017, 2018 and 2019 CTF
-[Google CTF 2019](https://capturetheflag.withgoogle.com/) | 2019 edition of the Google CTF contest
+[CTFs write-ups](https://github.com/ctfs/resources | a collection of writeups from various CTFs, organized, slightly outdated
+[Google CTF](https://github.com/google/google-ctf) | Source code of Google CTF
 [Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
-[Hack The Box](https://www.hackthebox.gr/en/login) | Pen testing labs hosting over 39 vulnerable machines with two additional added every month
 [Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
-[Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
-[Hacksplaining](https://www.hacksplaining.com/) | a clickthrough security informational site, very good for beginners.
-[hackburger.ee](http://hackburger.ee/) | hosts a number of web hacking challenges, account required
-[Hack.me](https://hack.me/) | lets you build/host/attack vulnerable web apps
+[Hacksplaining](https://www.hacksplaining.com/) | security informational site, very good for beginners.
 [Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
-[knock.xss.moe](https://knock.xss.moe) | XSS challenges, account required.
-[Lin.security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) | Practice your Linux privilege escalation
-[noe.systems](http://noe.systems/) | Korean challenge site, requires an account
+[Lin.security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) | Linux privilege escalation practice
 [Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
-[Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
 [PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
-[Pentestit](https://lab.pentestit.ru/) | acocunt based  CTF site, users have to install open VPN and get credentials
-[Pentest Practice](https://www.pentestpractice.com/) | account based Pentest practice, free to sign up, but there's also a pay-as-you-go feature
-[Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
-[PicoCTF](https://2017game.picoctf.com/) | CTF hosted by Carnegie Mellon, occurs yearly, account required.
+[PicoCTF](https://picoctf.org/) | CTF hosted by Carnegie Mellon, occurs yearly, account required.
 [pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
 [pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
-[Ringzer0 Team](https://ringzer0team.com/challenges) | an account based CTF site, hosting over 272 challenges
 [ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
-[SmashTheStack](http://smashthestack.org/wargames.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
-[Shellter Labs](https://shellterlabs.com/en/) | account based infosec labs, they aim at making these activities social
-[Solve Me](http://solveme.safflower.kr/) | "yet another challenge", account required.
+[SmashTheStack](https://www.smashthestack.org/main.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
 [Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
-[websec.fr](https://websec.fr/) | Focused on web challenges, registration is optional.
 [tryhackme](https://tryhackme.com) | Awesome platform to start learning cybersecurity, account is needed
 [webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
@@ -155,6 +134,7 @@ Name    |    Description
 [Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
 [Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
 [Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
+[Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
@@ -162,24 +142,15 @@ Name    |     Description
 [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html) | huge collection of RE information,  organized by type.
 [Binary hacking](http://liveoverflow.com/binary_hacking/index.html) | 35 "no bullshit" binary videos along with other info
 [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) | Collection of Linux Rev. Engineering videos
-[Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) | detailed tutorial, lots of good information about memory
 [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) | a series of 9 exploit tutorials,also features a podcast
 [Exploit development](https://0x00sec.org/c/exploit-development) | links to the forum's exploit dev posts, quality and post style will vary with each poster
 [flAWS challenge](http://flaws.cloud/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).
 [Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
 [Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html) | 63 days of OS class materials, 29 classes, 24 instructors, no account required
-[Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876) | listing of a lengthy resource by Lena, aimed at being a course
 [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) | blog post by sploitfun, has 3 different levels
 [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/) | one user's radare2 tutorials
 [Modern Binary Exploitation - CSCI 4968](https://github.com/RPISEC/MBE) | RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures
 [Recon.cx - reversing conference](https://recon.cx/) | the conference site contains recordings and slides of all talks!! 
-[Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf) | huge textbook, created by Dennis Yurichev, open-source
-[Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md) | a github collection of RE tools and books
-[Reverse Engineering challenges](https://challenges.re/) | collection of challenges from the writer of RE for Beginners
-[Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners) | github for the above
-[Reverse Engineering Malware 101](https://malwareunicorn.org/workshops/re101.html) | intro course created by Malware Unicorn, complete with material and two VM's
-[Reverse Engineering Malware 102](https://malwareunicorn.org/workshops/re102.html) | the sequel to RE101
-[reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
 [Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
