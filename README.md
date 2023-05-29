@@ -102,7 +102,6 @@ Name  |  Description
 [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) | Want to learn about all of the latest security tools and techniques?
 [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Hackthebox.eu retired machine vulnerable machine walkthroughs
 [The Daily Swig](https://portswigger.net/daily-swig) | Cybersecurity News Catalogue
-[Securelist](https://www.youtube.com/user/Securelist/featured) | brief videos, interviews discussing various cyber security topics (10 yrs old, maybe informative)
 
 ### Sharpening Your Skills
 Name    |    Description
