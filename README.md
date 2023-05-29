@@ -119,7 +119,6 @@ Name    |    Description
 [Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
 [PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
 [PicoCTF](https://picoctf.org/) | CTF hosted by Carnegie Mellon, occurs yearly, account required.
-[pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
 [pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
 [SmashTheStack](https://www.smashthestack.org/main.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
 [Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
